@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1690758274 source:c:\users\zahraa\projects\pixel quest\pixelquest\main.cpp
+	<iostream>
+	"SDL.h"
+
