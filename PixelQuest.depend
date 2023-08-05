@@ -3,14 +3,24 @@
 	<iostream>
 	"SDL.h"
 
-1690956873 source:c:\users\zahraa\projects\pixelquest\core\engine.cpp
+1691206127 source:c:\users\zahraa\projects\pixelquest\core\engine.cpp
 	"Engine.h"
+	"TextureManager.h"
 	<iostream>
 
-1691031011 c:\users\zahraa\projects\pixelquest\core\engine.h
+1691038058 c:\users\zahraa\projects\pixelquest\core\engine.h
 	"SDL.h"
 	"SDL_image.h"
 
 1690956887 source:c:\users\zahraa\projects\pixelquest\main.cpp
+	"Engine.h"
+
+1691118387 c:\users\zahraa\projects\pixelquest\src\graphics\texturemanager.h
+	<string>
+	"SDL.h"
+	<map>
+
+1691205711 source:c:\users\zahraa\projects\pixelquest\src\graphics\texturemanager.cpp
+	"TextureManager.h"
 	"Engine.h"
 
